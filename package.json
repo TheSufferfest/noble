@@ -37,7 +37,7 @@
   },
   "optionalDependencies": {
     "bluetooth-hci-socket": "^0.5.1",
-    "bplist-parser": "0.0.6",
+    "bplist-parser": "0.0.6"
   },
   "devDependencies": {
     "jshint": "latest",
